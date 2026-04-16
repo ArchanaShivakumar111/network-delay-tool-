@@ -56,13 +56,16 @@ Expected: 100% packet loss, BLOCKED logged by controller
 )
 
 ### Scenario 2: Blocked Traffic (h1 → h3)
-![Scenario 2](<img width="602" height="293" alt="Picture2" src="https://github.com/user-attachments/assets/08bcb7ce-c6fc-4b37-896c-3162505c209b" />
+![Scenario 2]
+(<img width="602" height="293" alt="Picture2" src="https://github.com/user-attachments/assets/08bcb7ce-c6fc-4b37-896c-3162505c209b" />
 )
 
 ### Flow Table
-![Flow Table](<img width="602" height="330" alt="Picture3" src="https://github.com/user-attachments/assets/42b5d56e-39bd-4b53-8670-41a290f9947d" />
+![Flow Table]
+(<img width="602" height="330" alt="Picture3" src="https://github.com/user-attachments/assets/42b5d56e-39bd-4b53-8670-41a290f9947d" />
 )
 
 ### Performance Observation (iperf)
-![iperf](<img width="602" height="135" alt="Picture4" src="https://github.com/user-attachments/assets/2aa9ebdc-509f-43fe-ad38-a4dd7290eaa3" />
+![iperf]
+(<img width="602" height="135" alt="Picture4" src="https://github.com/user-attachments/assets/2aa9ebdc-509f-43fe-ad38-a4dd7290eaa3" />
 )
