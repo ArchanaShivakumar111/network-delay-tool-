@@ -51,7 +51,8 @@ Expected: 100% packet loss, BLOCKED logged by controller
 ## Proof of Execution
 
 ### Scenario 1: Normal Latency Measurement (h1 → h2)
-![Scenario 1](<img width="602" height="305" alt="Picture1" src="https://github.com/user-attachments/assets/aa1202ad-ed13-4096-b518-4d647f492136" />
+![Scenario 1]
+(<img width="602" height="305" alt="Picture1" src="https://github.com/user-attachments/assets/aa1202ad-ed13-4096-b518-4d647f492136" />
 )
 
 ### Scenario 2: Blocked Traffic (h1 → h3)
