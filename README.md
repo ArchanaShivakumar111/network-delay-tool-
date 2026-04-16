@@ -1,7 +1,3 @@
-<img width="602" height="135" alt="Picture4" src="https://github.com/user-attachments/assets/567bdc0c-11e9-42fc-9fe9-062391a457c7" />
-<img width="602" height="330" alt="Picture3" src="https://github.com/user-attachments/assets/e0bef2f3-38dc-46ba-81d7-c1c14ebc5abc" />
-<img width="602" height="293" alt="Picture2" src="https://github.com/user-attachments/assets/8234763e-e9fb-4527-b601-750812d20916" />
-<img width="602" height="305" alt="Picture1" src="https://github.com/user-attachments/assets/e343d16c-7f00-4a65-8ce4-0865993cdbb5" />
 # Network Delay Measurement Tool
 **Course:** UE24CS252B - Computer Networks  
 **Student:** Archana Shivakumar  
@@ -55,17 +51,17 @@ Expected: 100% packet loss, BLOCKED logged by controller
 ## Proof of Execution
 
 ### Scenario 1: Normal Latency Measurement (h1 → h2)
-![Scenario 1](<img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/221724ae-f00f-4204-921a-f11d25249a05" />
+![Scenario 1](<img width="602" height="305" alt="Picture1" src="https://github.com/user-attachments/assets/aa1202ad-ed13-4096-b518-4d647f492136" />
 )
 
 ### Scenario 2: Blocked Traffic (h1 → h3)
-![Scenario 2](<img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/913a30a6-9a7c-45ec-92e9-82695c93d1e6" />
+![Scenario 2](<img width="602" height="293" alt="Picture2" src="https://github.com/user-attachments/assets/08bcb7ce-c6fc-4b37-896c-3162505c209b" />
 )
 
 ### Flow Table
-![Flow Table](<img width="940" height="515" alt="image" src="https://github.com/user-attachments/assets/7c8e4833-0be9-47ae-bc1a-ff028bffe61d" />
+![Flow Table](<img width="602" height="330" alt="Picture3" src="https://github.com/user-attachments/assets/42b5d56e-39bd-4b53-8670-41a290f9947d" />
 )
 
 ### Performance Observation (iperf)
-![iperf](<img width="940" height="211" alt="image" src="https://github.com/user-attachments/assets/13861359-bb2d-4d43-9762-da4ff8c628fd" />
+![iperf](<img width="602" height="135" alt="Picture4" src="https://github.com/user-attachments/assets/2aa9ebdc-509f-43fe-ad38-a4dd7290eaa3" />
 )
